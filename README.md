@@ -7,4 +7,4 @@
 
 <img src= "https://media.discordapp.net/attachments/883166258126782494/1295808601969004666/53_sin_titulo_20241015150018.png?ex=670fff4d&is=670eadcd&hm=5dec6488e7d2e4316648a4454140026965ee9dbf9a8b9acb24ddd67b35731a1d&" width="300" height="200"/> <img src= "https://media.discordapp.net/attachments/883166258126782494/1295799443920126093/d47f8a925fb24aba8cdbe91ca743f11f.jpg?ex=670ff6c6&is=670ea546&hm=1749403d7e142b48bab8e2213931b83545559e4119140be3f5bbade7b9af1830&" width="300" height="200"/> 
 
-$\color{#616C6D}{✦}$ $\color{#616C6D}{FFXV,}$ $\color{#616C6D}{Genshin}$ $\color{#616C6D}{Impact,}$ $\color{#616C6D}{Alien}$ $\color{#616C6D}{Stage,}$ $\color{#616C6D}{etc.}$
+$\color{#616C6D}{✦}$ $\color{#616C6D}{Genshin}$ $\color{#616C6D}{Impact,}$ $\color{#616C6D}{FFXV,}$ $\color{#616C6D}{Alien}$ $\color{#616C6D}{Stage,}$ $\color{#616C6D}{etc.}$
